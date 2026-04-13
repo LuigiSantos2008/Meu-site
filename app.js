@@ -8,13 +8,13 @@ import {
 } from "https://www.gstatic.com/firebasejs/12.1.0/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "COLE_SUA_API_KEY_AQUI",
+  apiKey: "AIzaSyC3_WLhjGcNI_Q1t0S6RB9Xz6nOTbuCrgo",
   authDomain: "site-15717.firebaseapp.com",
   databaseURL: "https://site-15717-default-rtdb.firebaseio.com/",
   projectId: "site-15717",
   storageBucket: "site-15717.firebasestorage.app",
-  messagingSenderId: "COLE_SEU_ID_AQUI",
-  appId: "COLE_SEU_APP_ID_AQUI"
+  messagingSenderId: "499290760724",
+  appId: "1:499290760724:web:df219d6765544a48b92901"
 };
 
 const app = initializeApp(firebaseConfig);
